@@ -20,3 +20,10 @@ This repository contains a collection of small scripts organized by folders.
 2. Navigate to the desired folder and run the file. Rename output files accordingly.
 
 ## Folders
+
+[US_treasury_scrape](/US_treasury_scrape)
+- US_treasury_scrape.py: modify start date, end date, and output csv filename
+- treasury_auction_results.csv: 2022 data
+
+[Tensorflow_Image_Classification](/Tensorflow_Image_Classification)
+- tensorflow_beginner_basic_image_classification,ipynb: modify indexes etc. to view different training and test items
