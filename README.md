@@ -26,4 +26,4 @@ This repository contains a collection of small scripts organized by folders.
 - treasury_auction_results.csv: 2022 data
 
 [Tensorflow_Image_Classification](/Tensorflow_Image_Classification)
-- tensorflow_beginner_basic_image_classification,ipynb: modify indexes etc. to view different training and test items
+- tensorflow_beginner_basic_image_classification.ipynb: modify indexes etc. to view different training and test items
