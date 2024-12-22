@@ -27,3 +27,6 @@ This repository contains a collection of small scripts organized by folders.
 
 [Tensorflow_Image_Classification](/Tensorflow_Image_Classification)
 - tensorflow_beginner_basic_image_classification.ipynb: modify indexes etc. to view different training and test items
+
+[TensorFlow_Tweet_Emotion_Recognition](/TensorFlow_Tweet_Emotion_Recognition)
+- Tweet_Emotion_Recognition_Learner.ipynb: modify indexes etc. to view different training, validation, and test items
